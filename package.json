@@ -1,0 +1,12 @@
+{
+  "name": "vkaudiotoken-js",
+  "version": "0.0.1",
+  "description": "Library that obtains VK tokens that work for VK audio API. Port of https://github.com/vodka2/vkaudiotoken-python",
+  "main": "index.js",
+  "repository": "git@github.com:Mishelles/vkaudiotoken-js.git",
+  "author": "Mishelles <sergeenkov.michael@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
